@@ -1,7 +1,7 @@
 baseURL: 'https://Alberto-Eusebio.it/'
 languageCode: en-us
 title: Alberto Eusebio
-theme: paperMod
+theme: PaperMod
 mode: profileMode
 
 Menu:
