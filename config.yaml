@@ -1,6 +1,7 @@
 baseURL: 'https://alberto-eusebio.netlify.app'
 languageCode: en-us
 title: Alberto Eusebio
+paginate: 5
 theme: PaperMod
 mode: profileMode
 
