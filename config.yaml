@@ -13,7 +13,7 @@ Menu:
       weight: 10
     - identifier: projects
       name: Projects
-      url: /projects/
+      url: /projects
       weight: 30
 
 params:
