@@ -1,7 +1,7 @@
 baseURL: 'https://alberto-eusebio.netlify.app'
 languageCode: en-us
 title: Alberto Eusebio
-theme: PaperMod
+theme: ["PaperMod"]
 mode: profileMode
 
 Menu:
@@ -16,6 +16,16 @@ Menu:
       weight: 30
 
 params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
   profileMode:
     enabled: true
     title: "<Title>" # optional default will be site title

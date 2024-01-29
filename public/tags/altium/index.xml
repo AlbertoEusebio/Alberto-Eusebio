@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Altium on Alberto Eusebio</title>
-    <link>https://Alberto-Eusebio.it/tags/altium/</link>
+    <link>https://alberto-eusebio.netlify.app/tags/altium/</link>
     <description>Recent content in Altium on Alberto Eusebio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://Alberto-Eusebio.it/tags/altium/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alberto-eusebio.netlify.app/tags/altium/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamliners (Policumbent)</title>
-      <link>https://Alberto-Eusebio.it/projects/policumbent/</link>
+      <link>https://alberto-eusebio.netlify.app/projects/policumbent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Alberto-Eusebio.it/projects/policumbent/</guid>
+      <guid>https://alberto-eusebio.netlify.app/projects/policumbent/</guid>
       <description>Cerberus, Phoenix and TaurusX</description>
     </item>
   </channel>
