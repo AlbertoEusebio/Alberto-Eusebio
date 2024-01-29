@@ -32,8 +32,8 @@ params:
     title: "<Title>" # optional default will be site title
     subtitle: "
       Hello newcomers 👋 I am Alberto, a [**Ms.c student in Computer Science and Engineering**](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2023&k_corso_la=481&k_indir=T2I&polij_device_category=DESKTOP&__pj0=0&__pj1=3aae52e91c120d3e5c102e7bf88678eb) at Politecnico di Milano specializing in **Artificial Intelligence** 🦾<br>
-      In my Bs.c I studied [**Computer Engineering**](https://www.polito.it/en/education/bachelor-s-degree-programmes/computer-engineering) at Politecnico di Torino, where I graduated Cum Laude in 2022.<br>
-      In my bachelor I have joined [**Team Policumbent**](https://www.policumbent.it/en/) in the development of the World fastest human powered vehicles, competing in the **World Human powered Speed Challenge**, which we won under my leadership in 2022 🚀<br>
+      In my Bs.c I studied [**Computer Engineering**](https://www.polito.it/en/education/bachelor-s-degree-programmes/computer-engineering) at Politecnico di Torino, where I graduated Cum Laude in 2023.<br>
+      In my bachelor I have joined [**Team Policumbent**](https://www.policumbent.it/en/) in the development of the World fastest human powered vehicles, competing in the **World Human powered Speed Challenge**, which we won under my leadership in 2023 🚀<br>
       I have been involved in the [**Intraprendenti Project**](https://www.polito.it/didattica/teaching-lab-progetti-didattici/honors-programs/percorso-intraprendenti) and I am now part of the [**ASP PROJECT**](https://www.asp-poli.it/) , both merit-based multidisciplinary programs aimed at 150 exceptionally talented and motivated students in Engineering, Design and Architecture 🏅"
     imageUrl: "home/me_big.jpg" # optional
     imageTitle: "Here I am!" # optional
