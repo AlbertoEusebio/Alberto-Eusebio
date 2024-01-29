@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alberto Eusebio</title>
+    <link>https://Alberto-Eusebio.it/tags/</link>
+    <description>Recent content in Tags on Alberto Eusebio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://Alberto-Eusebio.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4G</title>
+      <link>https://Alberto-Eusebio.it/tags/4g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/4g/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Altium</title>
+      <link>https://Alberto-Eusebio.it/tags/altium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/altium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arduino</title>
+      <link>https://Alberto-Eusebio.it/tags/arduino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esp32</title>
+      <link>https://Alberto-Eusebio.it/tags/esp32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/esp32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>https://Alberto-Eusebio.it/tags/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MQTT</title>
+      <link>https://Alberto-Eusebio.it/tags/mqtt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PCB design</title>
+      <link>https://Alberto-Eusebio.it/tags/pcb-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/pcb-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://Alberto-Eusebio.it/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RaspberryPy</title>
+      <link>https://Alberto-Eusebio.it/tags/raspberrypy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/raspberrypy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>STM32</title>
+      <link>https://Alberto-Eusebio.it/tags/stm32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Alberto-Eusebio.it/tags/stm32/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
