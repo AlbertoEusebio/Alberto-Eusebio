@@ -1,7 +1,7 @@
 ---
 title: "Streamliners (Policumbent)"
 description: "Cerberus, Phoenix and TaurusX"
-dateString: Jan 2020 - Ongoing
+dateString: Jan 2020 - Sep 2023
 draft: false
 tags: ["Python", "Arduino", "STM32", "Altium", "PCB design", "RaspberryPy", "Esp32", "MQTT", "IoT", "4G"]
 showToc: false
@@ -9,7 +9,6 @@ weight: 203
 cover:
     image: "projects/Policumbent/Cerberus.webp"
 --- 
-
 ## Description
 
 As part of the IT & Electronics division of Team Policumbent, I was Involved in the development of the on-board systems for our streamliners. In my three years in Team Policumbent I developed or contributed to develop different systems.
