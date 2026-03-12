@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(pdftotext /mnt/c/Users/alber/Desktop/programming/2024_EUSEBIO_XAI-multimodal-cohort-NSCLC-patients/Alberto-Eusebio/Profile-1.pdf -)",
+      "Bash(pip install:*)",
+      "Bash(which python3:*)"
+    ]
+  }
+}
