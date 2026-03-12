@@ -2,17 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Alberto Eusebio</title>
-    <link>https://alberto-eusebio.netlify.app/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Portfolio on Alberto Eusebio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://alberto-eusebio.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>albertoeusebio72@gmail.com (Alberto Eusebio)</managingEditor>
+    <webMaster>albertoeusebio72@gmail.com (Alberto Eusebio)</webMaster>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Streamliners (Policumbent)</title>
-      <link>https://alberto-eusebio.netlify.app/projects/posts/policumbent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alberto-eusebio.netlify.app/projects/posts/policumbent/</guid>
-      <description>Cerberus, Phoenix and TaurusX</description>
+      <title>NLP-RAG1200</title>
+      <link>http://localhost:1313/projects/posts/nlp-rag1200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/nlp-rag1200/</guid>
+      <description>Experimental NLP workflow combining preprocessing, retrieval, and model comparison on neural-bridge/rag-dataset-12000.</description>
+    </item>
+    <item>
+      <title>Lung Cancer Classification</title>
+      <link>http://localhost:1313/projects/posts/lung-cancer-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/lung-cancer-classification/</guid>
+      <description>Medical-imaging project comparing binary and five-class lung malignancy pipelines across full and zoomed CT slices.</description>
+    </item>
+    <item>
+      <title>OLA Project: Dynamic Pricing and Bidding</title>
+      <link>http://localhost:1313/projects/posts/ola-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/ola-project/</guid>
+      <description>Simulation-based online learning project covering stochastic, auction, and non-stationary decision settings.</description>
+    </item>
+    <item>
+      <title>SE2 Project: Requirements and System Design</title>
+      <link>http://localhost:1313/projects/posts/se2-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/se2-project/</guid>
+      <description>Documentation-focused software engineering project covering requirements, architecture, UML artifacts, and Alloy models.</description>
+    </item>
+    <item>
+      <title>Brain Stroke Prediction: Replication and Critical Evaluation</title>
+      <link>http://localhost:1313/projects/posts/brain-stroke-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/brain-stroke-prediction/</guid>
+      <description>Reproducibility study of a stroke-risk prediction paper using classical ML with rigorous evaluation protocol analysis</description>
+    </item>
+    <item>
+      <title>Weather Station (Team Policumbent)</title>
+      <link>http://localhost:1313/projects/posts/weatherstation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/weatherstation/</guid>
+      <description>ESP32 and MQTT telemetry system for race-condition monitoring in high-speed streamliners</description>
+    </item>
+    <item>
+      <title>Streamliners (Team Policumbent)</title>
+      <link>http://localhost:1313/projects/posts/policumbent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/policumbent/</guid>
+      <description>Embedded systems, telemetry, and technical leadership for world-level human-powered vehicles</description>
+    </item>
+    <item>
+      <title>Aurora</title>
+      <link>http://localhost:1313/projects/posts/aurora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/aurora/</guid>
+      <description>LLM-enabled mobile application for mental well-being tracking and guided reflection</description>
+    </item>
+    <item>
+      <title>Enterprise AI Prototyping at Salesforce</title>
+      <link>http://localhost:1313/projects/posts/salesforce-agentforce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/salesforce-agentforce/</guid>
+      <description>Agentforce demonstrations and tailored enterprise GenAI proofs of concept</description>
+    </item>
+    <item>
+      <title>Trustworthy CT Modeling for NSCLC Survival</title>
+      <link>http://localhost:1313/projects/posts/nsclc-trustworthy-ct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/nsclc-trustworthy-ct/</guid>
+      <description>Master thesis research in healthcare AI, computer vision, and trustworthy evaluation</description>
+    </item>
+    <item>
+      <title>Autonomous Grapevine Pruning (PIC4SeR / Yanmar)</title>
+      <link>http://localhost:1313/projects/posts/grapevine-pruning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/grapevine-pruning/</guid>
+      <description>End-to-end computer vision and robotics pipeline for autonomous agricultural pruning</description>
     </item>
   </channel>
 </rss>

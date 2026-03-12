@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TensorFlow on Alberto Eusebio</title>
+    <link>http://localhost:1313/tags/tensorflow/</link>
+    <description>Recent content in TensorFlow on Alberto Eusebio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>albertoeusebio72@gmail.com (Alberto Eusebio)</managingEditor>
+    <webMaster>albertoeusebio72@gmail.com (Alberto Eusebio)</webMaster>
+    <atom:link href="http://localhost:1313/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lung Cancer Classification</title>
+      <link>http://localhost:1313/projects/posts/lung-cancer-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
+      <guid>http://localhost:1313/projects/posts/lung-cancer-classification/</guid>
+      <description>Medical-imaging project comparing binary and five-class lung malignancy pipelines across full and zoomed CT slices.</description>
+    </item>
+  </channel>
+</rss>

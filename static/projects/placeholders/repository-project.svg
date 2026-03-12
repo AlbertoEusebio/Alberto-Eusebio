@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Project placeholder image">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101522" />
+      <stop offset="100%" stop-color="#1f2a44" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="none" stroke="#6aa0ff" stroke-opacity="0.5" stroke-width="2" />
+  <text x="600" y="290" text-anchor="middle" fill="#dce8ff" font-family="Arial, sans-serif" font-size="54" font-weight="700">
+    Portfolio Project
+  </text>
+  <text x="600" y="350" text-anchor="middle" fill="#9db7e8" font-family="Arial, sans-serif" font-size="28">
+    Repository-driven entry
+  </text>
+</svg>

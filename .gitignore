@@ -1,0 +1,17 @@
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
+*.pdf 
+_cv.js
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+tmp_repo_inspect/
+cv_extracted.txt
+extract_cv.js

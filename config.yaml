@@ -11,10 +11,19 @@ Menu:
       name: Home
       url: /
       weight: 10
+    - identifier: profile
+      name: Profile
+      url: /profile/
+      weight: 20
     - identifier: projects
       name: Projects
       url: /projects
       weight: 30
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
   # theme
@@ -24,28 +33,45 @@ params:
   ShowCodeCopyButtons: true
   hideMeta: false
 
-  # for enchanced SEO
+  # for enhanced SEO
   env: production
 
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "
-      Hello newcomers 👋 I am Alberto, a [**MSc student in Computer Science and Engineering**](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2023&k_corso_la=481&k_indir=T2I&polij_device_category=DESKTOP&__pj0=0&__pj1=3aae52e91c120d3e5c102e7bf88678eb) at Politecnico di Milano specializing in **Artificial Intelligence** 🦾<br>
-      In my BSc I studied [**Computer Engineering**](https://www.polito.it/en/education/bachelor-s-degree-programmes/computer-engineering) at Politecnico di Torino, where I graduated Cum Laude in 2023.<br>
-      During my bachelor I have joined [**Team Policumbent**](https://www.policumbent.it/en/) in the development of the World fastest human powered vehicles, competing in the **World Human powered Speed Challenge**, which we won under my leadership in 2023 🚀<br>
-      I have been involved in the [**Intraprendenti Project**](https://www.polito.it/didattica/teaching-lab-progetti-didattici/honors-programs/percorso-intraprendenti) and I am now part of the [**ASP PROJECT**](https://www.asp-poli.it/) , both merit-based multidisciplinary programs aimed at 150 exceptionally talented and motivated students in Engineering, Design and Architecture 🏅"
-    imageUrl: "home/me_big.jpg" # optional
-    imageTitle: "Here I am!" # optional
-    imageWidth: 220 # optional
-    imageHeight: 220 # optional
+    title: "Alberto Eusebio"
+    subtitle: |
+      🔬 Research Engineer at **Huawei Paris**
 
-  socialIcons: # optional
+      I work on continual learning and memory-inspired Transformer architectures. My previous work was on AI for clinical oncology: CT-based survival prediction for lung cancer patients at Italy's National Cancer Institute, published at **IEEE EMBC 2025**, **ESMO AI 2025**, and **ECML PKDD 2025**.
+
+      **Polimi** MSc. AI `110/110` &ensp;·&ensp; **Polito** BSc. CS `110L/110` &ensp;·&ensp; Alta Scuola Politecnica &ensp;·&ensp; 2× IHPVA World Champion 🏆
+    buttons:
+      - name: Profile
+        url: /profile/
+      - name: Projects
+        url: /projects/
+    imageUrl: "home/me_big.jpg"
+    imageTitle: "Alberto Eusebio"
+    imageWidth: 220
+    imageHeight: 220
+
+  socialIcons:
     - name: "email"
       url: "mailto:albertoeusebio72@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/alberto-eusebio/"
+      url: "https://www.linkedin.com/in/alberto-eusebio"
     - name: "github"
       url: "https://github.com/AlbertoEusebio"
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1DpWDI0-52nw3AZxO_55cGsD-QI1xpxVK/view"
+    - name: "googlescholar"
+      url: "https://scholar.google.com/citations?user=elsAGV8AAAAJ&hl=en"
+    - name: "website"
+      url: "https://alberto-eusebio.netlify.app/"
+
+  # keep PaperMod OpenGraph template on the non-deprecated path
+  social:
+    facebook_admin: ""
+
+  # keep PaperMod RSS template on the non-deprecated path
+  author:
+    name: "Alberto Eusebio"
+    email: "albertoeusebio72@gmail.com"

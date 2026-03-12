@@ -1,0 +1,389 @@
+mailto:albertoeusebio72@gmail.com
+https://www.linkedin.com/in/alberto-eusebio?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BB3m7369BSburSCiCD%2Fxu4A%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile
+https://alberto-eusebio.netlify.app/
+
+
+
+ALBERTO EUSEBIO
+
+CONTACT
+Email: albertoeusebio72@gmail.com
+LinkedIn: www.linkedin.com/in/alberto-eusebio
+Website: alberto-eusebio.netlify.app/
+Location: Greater Paris Metropolitan Region
+
+PROFESSIONAL PROFILE
+Research-oriented AI engineer with experience across computer vision, generative AI, machine learning evaluation, cloud-based LLM applications, embedded systems, and engineering leadership. Current Research Engineer at Huawei and former Solution Engineer Intern at Salesforce. Academic background spans Computer Engineering and Artificial Intelligence, with additional participation in the Alta Scuola Politecnica honors program. Experience includes medical AI, autonomous pruning systems, LLM-enabled mobile applications, telemetry and sensor systems, and software for industrial remote monitoring.
+
+CORE STRENGTHS
+- Machine Learning and Deep Learning
+- Computer Vision
+- NLP and Retrieval-Augmented Generation
+- Generative AI and AI Agents
+- Cloud-based AI Infrastructure
+- Experimental Design and Model Evaluation
+- Embedded Systems and Sensor Integration
+- Technical Leadership and Cross-functional Collaboration
+
+TOP SKILLS
+- Internet of Things (IoT)
+- Explainable AI (XAI)
+- Hyperparameter Tuning
+
+LANGUAGES
+- Italian: Native or bilingual
+- English: Full professional
+- German: Elementary
+
+CERTIFICATIONS
+- Foundations of Project Management
+- CAE - C1
+- Goethe Zertifikat A2
+- INTRAPRENDENTI – Course for Engineers, Architects, Planners, Innovative Designers
+- Emergency and First Aid
+
+PROFESSIONAL EXPERIENCE
+
+Huawei — Research Engineer
+Paris
+October 2025 - Present
+
+Currently working as a Research Engineer at Huawei in Paris. The uploaded profile confirms the role, employer, location, and start date. No additional project-level technical details are stated in the uploaded profile, so this entry should be expanded only if more direct evidence is available.
+
+Fondazione IRCCS Istituto Nazionale dei Tumori di Milano — Master Thesis Student
+Milan, Lombardy, Italy
+September 2024 - Present
+
+Developed and evaluated computer vision architectures for 6-month overall survival prediction in advanced lung cancer patients using Apollo11 cohort data.
+Worked with CNNs, Vision Transformers, and GAN-based approaches.
+Implemented fairness assessments to study biases introduced by data augmentation strategies.
+Contributed to dissemination of the work through peer-reviewed and workshop venues.
+
+Publications and scholarly activity explicitly listed in the uploaded profile:
+- Paper accepted at IEEE EMBC 2025: “Trustworthy assessment of 2D model for lung CT scans.” DOI: 10.1109/EMBC58623.2025.11254399
+- Abstract accepted at ESMO AI 2025: “CT-based 3D ResNet50 for predicting survival in NSCLC patients treated with immunotherapy.” DOI: 10.1016/j.esmorw.2025.100335
+- Poster accepted at AEQUITAS 2025 Workshop, colocated with ECAI 2025
+- Poster accepted at PharML workshop of ECML PKDD 2025
+- Served as reviewer for the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+
+PIC4SeR - Politecnico di Torino Interdepartmental Centre for Service Robotics — Student Researcher in Computer Vision
+Milan, Lombardy, Italy
+April 2024 - September 2025
+
+Collaborated with Yanmar S.P.A. and PIC4SeR within the Alta Scuola Politecnica honor program to develop an autonomous grapevine pruning system.
+Designed a deep learning perception pipeline based on stacked Hourglass Networks.
+Implemented graph-based vine reconstruction methods.
+Developed heuristic pruning strategies informed by expert knowledge.
+Reported model performance in the uploaded profile:
+- Precision: 95%
+- Recall: 90%
+- F1-score: 92%
+
+Salesforce — Solution Engineer Intern
+Milano, Lombardia, Italia
+September 2024 - July 2025
+
+Created AI Agents on the Salesforce platform to demonstrate Agentforce capabilities to clients and partners.
+Delivered customized proofs of concept to more than five large businesses.
+Supported enterprise adoption of Generative AI solutions for the automation of sales and service processes.
+Worked at the intersection of solution engineering, customer enablement, and applied GenAI.
+
+NECSTLab — Graduate Student Researcher
+Milan, Lombardy, Italy
+November 2023 - June 2024
+
+Developed Aurora, a mobile cross-platform application leveraging large language models to track mental well-being.
+Collected a dataset from a study involving 27 participants.
+Designed cloud infrastructure using AWS Lambda functions.
+Connected the application stack to a fine-tuned Meta-Llama-3.1-70B instance hosted on AWS Bedrock.
+Contributed to an applied research workflow combining user study data, LLM integration, and scalable backend design.
+
+Team Policumbent — Team Leader
+Turin, Piedmont, Italy
+October 2022 - October 2023
+
+Led a large student engineering team focused on human-powered high-performance vehicles.
+Managed:
+- 9 divisions
+- 4 vehicles
+- 100 engineering students
+Worked with 23 active sponsors.
+Presented the team publicly at Automation and Testing Turin Fair and Maker Faire Rome.
+Award explicitly listed:
+- IHPVA World Human Powered Speed Challenge winners 2023, matched world record
+
+Team Policumbent — Software Engineer
+Turin, Piedmont, Italy
+March 2021 - October 2022
+
+Developed onboard Raspberry Pi software to interface with Garmin ANT+ sensors for biometric data logging.
+Built a weather station using ESP32 for atmospheric data monitoring.
+Designed an MQTT-based data visualization system.
+Worked mainly on Cerberus, the team’s handbike prototype.
+Contributed to systems that supported streamliners reaching 130 km/h.
+Award explicitly listed:
+- IHPVA World Human Powered Speed Challenge winners 2022
+
+Aquaseek — Software Engineer
+Turin, Piedmont, Italy
+April 2022 - July 2022
+
+Created a Python desktop application for remote monitoring and control of Aquaseek Atmospheric Water Generator machines.
+Implemented command transmission and real-time data visualization using Matplotlib.
+Designed the organization’s database management system.
+Developed an interface for devices to log data into the database.
+Enabled automated data logging, monitoring, and analysis accessible via a Telegram bot.
+
+FCA Fiat Chrysler Automobiles — Student Intern
+Turin, Piedmont, Italy
+December 2017 - January 2018
+
+Participated in a high school collaboration project focused on job safety, risk assessment, and risk analysis of a proposed project.
+
+EDUCATION
+
+Alta Scuola Politecnica
+Master’s degree, Computer Engineering
+February 2024 - July 2025
+
+Politecnico di Milano
+Master’s degree, Artificial Intelligence
+September 2023 - December 2025
+
+Politecnico di Torino
+Bachelor’s degree, Computer Engineering
+October 2020 - July 2023
+
+Istituto Internazionale Edoardo Agnelli
+Scientific High School Diploma, with stronger focus on Mathematics, Physics, Biology, and Latin
+September 2015 - April 2020
+
+SELECTED PROJECTS
+
+1. Brain Stroke Prediction with Machine Learning Techniques
+Role: Co-author / project contributor
+Context: Reproduction and methodological evaluation project on stroke risk prediction
+
+Project overview:
+This project aimed to replicate and critically evaluate the paper “Stroke Risk Prediction with Machine Learning Techniques” by Dritsas and Trigka. The work did not stop at straightforward replication. It explicitly compared a paper-faithful pipeline against a more rigorous best-practices pipeline, with emphasis on evaluation validity, class imbalance handling, and the effect of data leakage on reported performance.
+
+Methods and workflow:
+- Exploratory data analysis
+- Data cleaning and preprocessing
+- Missing-value handling
+- Outlier analysis and treatment
+- One-hot encoding for categorical variables
+- Normalization of numerical variables
+- Class imbalance handling with SMOTE and SMOTENC comparisons
+- 80/20 train-test split
+- Hyperparameter tuning with GridSearchCV and 10-fold cross-validation
+
+Data handling details described in the report:
+- In notebook A, the team closely replicated the original paper, including oversampling the full dataset.
+- In notebook B, the team oversampled only the training set, preserving the original test distribution for fairer evaluation.
+- Missing BMI values were dropped in notebook A but imputed in notebook B to reduce information loss.
+- Unknown smoking-status labels were reclassified in notebook B using a Random Forest model trained without the stroke label to reduce bias.
+- Outliers were handled differently across the two notebooks, including IQR-based treatment in notebook B.
+
+Models used:
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Stochastic Gradient Descent Classifier
+- k-Nearest Neighbors
+- Gaussian Naive Bayes
+- Multi-Layer Perceptron
+- Stacking Classifier
+- Majority Voting Classifier
+
+Feature analysis:
+The report states that feature ranking through Random Forest, information gain, and mutual information consistently identified age as the most influential feature, with BMI and average glucose level also ranking highly.
+
+Results and conclusions:
+- In notebook A, where the full dataset was oversampled, the best models were stacking, random forest, and majority voting with ROC AUC values of 96%, 94%, and 93%.
+- In notebook B, evaluation on a more realistic untouched test set led to substantially lower precision and recall, highlighting that the notebook A setup produced optimistic results.
+- Under the fairer evaluation setup, models such as k-NN and logistic regression emerged as stronger candidates on unseen data.
+- The project’s main methodological contribution was showing how resampling strategy and test-set contamination can materially alter conclusions in medical ML.
+
+Why this project is notable:
+This project shows strong attention to reproducibility, evaluation rigor, and methodological correctness, rather than only maximizing benchmark metrics.
+
+2. Lung-Cancer-Classification
+Role: Repository author / contributor
+Context: Deep learning project for lung cancer malignancy classification from CT scans
+
+Project overview:
+This project, presented in the repository as “DeepBreath AI,” studies lung cancer malignancy classification from CT slices. It evaluates both binary and five-class formulations of the task and compares full-slice versus zoomed-slice representations centered on the nodule.
+
+Dataset and tasks:
+- CT data from 2,363 patients in NRRD format with Hounsfield Unit values
+- Binary classification: classes 1–3 grouped as benign, classes 4–5 as malignant
+- Multi-class classification: five malignancy classes
+- Two image regimes: full slice and zoomed-in slice
+
+Preprocessing and training pipeline:
+- Min-max normalization
+- Hounsfield Unit windowing with width 1300 and level -220
+- Data augmentation
+- Random oversampling for binary classification
+- SMOTE plus class weighting for multi-class classification
+- EfficientNetV2S for binary full-slice and binary zoomed-slice tasks
+- EfficientNetB1 for full-slice multi-class classification
+- EfficientNetB0 for zoomed-slice multi-class classification
+- Focal losses
+- Adam optimizer
+- EarlyStopping and ReduceLROnPlateau callbacks
+
+Reported results from the repository README:
+Full-slice binary classification:
+- Accuracy: 0.73 ± 0.02
+- Precision: 0.44 ± 0.03
+- Recall: 0.52 ± 0.05
+- F1-score: 0.48 ± 0.03
+- AUC: 0.66 ± 0.02
+
+Full-slice multi-class classification:
+- Accuracy: 0.23 ± 0.04
+- Precision: 0.21 ± 0.04
+- Recall: 0.24 ± 0.04
+- F1-score: 0.19 ± 0.04
+- AUC: 0.51 ± 0.04
+
+Zoomed-slice binary classification:
+- Accuracy: 0.72 ± 0.03
+- Precision: 0.45 ± 0.05
+- Recall: 0.63 ± 0.08
+- F1-score: 0.52 ± 0.05
+- AUC: 0.75 ± 0.04
+
+Zoomed-slice multi-class classification:
+- Accuracy: 0.53 ± 0.02
+- Precision: 0.49 ± 0.03
+- Recall: 0.56 ± 0.02
+- F1-score: 0.47 ± 0.03
+- AUC: 0.74 ± 0.02
+
+Key findings:
+- Binary classification was more reliable than five-class classification.
+- Zoomed-slice inputs generally outperformed full-slice inputs, especially in the multi-class setting.
+- The repository presents a meaningful comparison of task design, crop granularity, preprocessing, and class-imbalance strategies.
+
+3. NLP-RAG1200
+Role: Repository author / contributor
+Context: NLP and retrieval-augmented generation experimentation project
+
+Project overview:
+This project is centered on training and evaluating multiple NLP models in a retrieval-oriented question-answering workflow. The public repository includes a minimal README, a substantial training notebook, and a chatbot-related application layer.
+
+Dataset and analysis:
+The accessible notebook states that the project uses the neural-bridge/rag-dataset-12000 dataset:
+- 12,000 context-question-answer triples
+- 9,600 training samples
+- 2,400 test samples
+
+The notebook includes:
+- Data loading and filtering
+- Tokenization
+- Token-distribution analysis
+- TF-IDF analysis
+- Use of retrieval tooling such as FAISS
+- Evaluation metrics for generated answers
+
+Models and evaluation settings visible in the notebook:
+- BERT-style modeling
+- RoBERTa references
+- LSTM seq2seq references
+- Flan-T5 base
+- TinyLlama-1.1B-Chat
+- Quantized Mixtral 7B-Instruct
+
+Evaluation metrics visible in the notebook:
+- Exact Match
+- Cosine similarity
+- BLEU
+- ROUGE-1
+- ROUGE-L
+
+Observed conclusions from the accessible notebook text:
+- The notebook compares no-context versus with-context settings.
+- It also compares zero-shot and few-shot prompting setups for generative models.
+- For the visible TinyLlama examples, context improves answer quality over no-context generation.
+- Flan-T5 also shows stronger scores with context than without context in the visible notebook outputs.
+- Some reported generative evaluations were carried out only on the first 50 test examples, which limits statistical strength.
+
+Application layer:
+The notebook states that the team created a Streamlit web application whose first section is a chatbot based on Meta Llama 3.1 8B Instruct.
+
+Important caveat:
+This project appears substantial, but its public documentation is sparse compared with the other repositories. Any public-facing description should remain conservative unless the full notebook and code are inspected locally in more depth.
+
+4. OLA-project
+Role: Repository author / contributor
+Context: Online Learning Applications project on dynamic pricing and bidding
+
+Project overview:
+This project addresses dynamic pricing and bidding under uncertainty, with both stochastic and adversarial settings discussed in the repository materials.
+
+Publicly documented methodology:
+- Gaussian Process Upper Confidence Bound (GPUCB) is explicitly used in the stochastic setting to learn an optimal pricing strategy from stochastic user responses.
+- The framing follows standard online-learning ideas: balance exploration and exploitation while learning an unknown reward function.
+- The repository includes simulations and notebook-based analysis.
+
+Publicly documented results:
+The README describes the stochastic GPUCB results qualitatively:
+- Sampled prices increasingly concentrate around the optimal price
+- Uncertainty becomes smallest near the optimal region
+- GPUCB converges effectively under uncertainty
+
+Adversarial setting:
+The README states that the project also studies pricing and bidding in adversarial settings, but the exact adversarial algorithm names are not clearly exposed in the publicly visible material inspected here. Descriptions should therefore remain high-level unless the full notebook is examined directly.
+
+5. SE2-project
+Role: Co-author / contributor
+Context: Software Engineering 2 project on requirements and system design
+
+Project overview:
+This repository is an archived Software Engineering 2 project containing requirements and design documentation for a platform that manages student programming challenges, automated testing, submissions, and score tracking.
+
+Repository structure visible publicly:
+- DeliveryFolder
+- Alloy
+- Diagrams
+- Implementation Plan
+
+Key deliverables referenced by the repository:
+- RASDv1.pdf
+- DDv1.pdf
+
+Interpretation supported by the repository:
+- Strong focus on requirements engineering
+- Design documentation and structured system specification
+- Presence of Alloy suggests formal modeling or formal specification components
+
+This project broadens the profile beyond AI by demonstrating systems thinking, documentation discipline, and software architecture reasoning.
+
+ADDITIONAL ENGINEERING PROJECT CONTEXT
+
+Policumbent / engineering systems work:
+The public profile and repositories together suggest meaningful hands-on work on telemetry, modular software, embedded systems, and real-world engineering operations, especially through Team Policumbent and related repositories.
+
+RESEARCH INTERESTS AND DIRECTION
+
+Based on the uploaded profile and inspected project materials, the strongest recurring themes in this CV are:
+- Medical AI and health-related machine learning
+- Trustworthy and fair evaluation of models
+- Computer vision for clinical and robotics applications
+- NLP and retrieval-augmented generation
+- LLM-enabled product and solution engineering
+- Embedded software and physical-world data systems
+- Interdisciplinary engineering leadership
+
+SELECTED IMPACT THEMES
+
+- Built AI systems across healthcare, enterprise automation, robotics, and wellbeing applications
+- Combined research and engineering, spanning publications, experimentation, deployment, and stakeholder-facing delivery
+- Demonstrated leadership in large engineering teams and competitive technical environments
+- Emphasized methodological rigor, especially in evaluation design and model assessment
+
+NOTES FOR PUBLIC USE
+This CV is intentionally conservative and evidence-based. Some entries, especially Huawei, NLP-RAG1200, and SE2-project, should be expanded only with additional direct documentation. Publication titles, dates, and quantitative claims should be checked against the final authoritative sources before external submission.

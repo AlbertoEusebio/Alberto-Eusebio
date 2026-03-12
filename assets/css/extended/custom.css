@@ -1,0 +1,346 @@
+/* ============================================================
+   GLOBAL ENHANCEMENTS
+   ============================================================ */
+
+/* Smoother font rendering & base spacing */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================================
+   POST ENTRY CARDS (Project list)
+   ============================================================ */
+
+.post-entry {
+    border-radius: calc(var(--radius) + 4px);
+    border: 1px solid var(--border);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    overflow: hidden;
+}
+
+.post-entry:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.1);
+    border-color: var(--secondary);
+}
+
+.dark .post-entry:hover {
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.35);
+}
+
+.entry-header h2 {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+.entry-content {
+    font-size: 13.5px;
+    line-height: 1.65;
+    -webkit-line-clamp: 3;
+}
+
+/* Tags in list cards */
+.entry-footer {
+    font-size: 12px;
+    opacity: 0.82;
+}
+
+/* ============================================================
+   POST SINGLE — SECTION HEADERS
+   ============================================================ */
+
+.post-content h2 {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--border);
+    margin-bottom: 20px;
+}
+
+.post-content h3 {
+    font-size: 19px;
+    font-weight: 650;
+    letter-spacing: -0.01em;
+    color: var(--primary);
+    margin-top: 30px;
+}
+
+/* Accent line before h3 */
+.post-content h3::before {
+    content: "▎";
+    color: var(--secondary);
+    margin-right: 6px;
+    opacity: 0.55;
+    font-size: 0.85em;
+}
+
+/* ============================================================
+   TABLES — richer, more readable
+   ============================================================ */
+
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.07);
+    margin-bottom: calc(var(--content-gap) + 4px);
+}
+
+.post-content table th {
+    background: var(--tertiary);
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 11px 14px;
+    border-bottom: 2px solid var(--border);
+}
+
+.dark .post-content table th {
+    background: var(--code-bg);
+}
+
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+}
+
+/* Subtle alternating rows */
+.post-content table tbody tr:nth-child(even) td {
+    background: rgba(0, 0, 0, 0.02);
+}
+
+.dark .post-content table tbody tr:nth-child(even) td {
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.post-content table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+/* ============================================================
+   BLOCKQUOTE — CALLOUT BOX
+   Used for key achievements, highlighted facts
+   ============================================================ */
+
+.post-content blockquote {
+    margin: 24px 0;
+    padding: 14px 20px;
+    border-inline-start: 4px solid var(--secondary);
+    background: var(--code-bg);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    color: var(--content);
+    font-style: normal;
+}
+
+.dark .post-content blockquote {
+    background: var(--entry);
+}
+
+.post-content blockquote p {
+    margin-bottom: 0;
+}
+
+.post-content blockquote strong {
+    color: var(--primary);
+}
+
+/* Nested blockquote = highlight box (accent color) */
+.post-content blockquote blockquote {
+    border-inline-start: 4px solid #578eff;
+    background: rgba(87, 142, 255, 0.08);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    padding: 12px 18px;
+    margin: 0;
+}
+
+.dark .post-content blockquote blockquote {
+    background: rgba(87, 142, 255, 0.12);
+}
+
+/* ============================================================
+   STAT CHIPS — wrap a number in `` for highlight treatment
+   ============================================================ */
+
+/* Inline code — distinct treatment for stats */
+.post-content p code,
+.post-content li code,
+.post-content td code {
+    background: rgba(87, 142, 255, 0.1);
+    color: var(--primary);
+    border-radius: 4px;
+    padding: 2px 7px;
+    font-size: 0.82em;
+    font-weight: 600;
+    border: 1px solid rgba(87, 142, 255, 0.2);
+}
+
+.dark .post-content p code,
+.dark .post-content li code,
+.dark .post-content td code {
+    background: rgba(87, 142, 255, 0.15);
+    border-color: rgba(87, 142, 255, 0.3);
+    color: #9ab8ff;
+}
+
+/* ============================================================
+   POST TAGS — more colorful pill chips
+   ============================================================ */
+
+.post-tags a {
+    font-size: 12px;
+    padding: 0 12px;
+    line-height: 28px;
+    border-radius: 20px;
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    transition: background 0.14s ease, color 0.14s ease, transform 0.1s ease;
+    font-weight: 500;
+}
+
+.post-tags a:hover {
+    background: var(--secondary);
+    color: var(--theme);
+    transform: translateY(-1px);
+    border-color: transparent;
+}
+
+/* ============================================================
+   PROFILE PAGE — enhanced typography
+   ============================================================ */
+
+/* The profile.md single post view */
+.post-title {
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+}
+
+/* ============================================================
+   HORIZONTAL RULE — softer separator
+   ============================================================ */
+
+.post-content hr {
+    margin: 36px 0;
+    height: 1px;
+    background: var(--border);
+    border: 0;
+    opacity: 0.7;
+}
+
+/* ============================================================
+   LINK UNDERLINES — cleaner
+   ============================================================ */
+
+.post-content a {
+    box-shadow: none;
+    text-decoration: underline;
+    text-decoration-color: var(--tertiary);
+    text-underline-offset: 2px;
+    transition: text-decoration-color 0.15s ease;
+}
+
+.post-content a:hover {
+    text-decoration-color: var(--secondary);
+}
+
+/* ============================================================
+   LIST PAGE HEADER
+   ============================================================ */
+
+.page-header h1 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+}
+
+.page-header .post-description {
+    color: var(--secondary);
+    font-size: 15px;
+    line-height: 1.65;
+    max-width: 68ch;
+    margin-top: 8px;
+}
+
+/* ============================================================
+   BREADCRUMBS
+   ============================================================ */
+
+.breadcrumbs {
+    margin-bottom: 8px;
+    font-size: 13px;
+    opacity: 0.75;
+}
+
+/* ============================================================
+   SOCIAL ICONS — subtle hover lift on home
+   ============================================================ */
+
+.social-icons a {
+    transition: transform 0.14s ease, opacity 0.14s ease;
+}
+
+.social-icons a:hover {
+    transform: translateY(-2px);
+    opacity: 0.8;
+}
+
+/* ============================================================
+   DARK MODE TWEAKS
+   ============================================================ */
+
+.dark .post-entry {
+    background: var(--entry);
+}
+
+/* ============================================================
+   ANIMATIONS — staggered fade-in for post list
+   ============================================================ */
+
+@keyframes fadeSlideUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.post-entry:nth-child(1) { animation: fadeSlideUp 0.4s ease both; }
+.post-entry:nth-child(2) { animation: fadeSlideUp 0.4s 0.06s ease both; }
+.post-entry:nth-child(3) { animation: fadeSlideUp 0.4s 0.12s ease both; }
+.post-entry:nth-child(4) { animation: fadeSlideUp 0.4s 0.18s ease both; }
+.post-entry:nth-child(5) { animation: fadeSlideUp 0.4s 0.24s ease both; }
+.post-entry:nth-child(n+6) { animation: fadeSlideUp 0.4s 0.28s ease both; }
+
+/* ============================================================
+   MOBILE ADJUSTMENTS
+   ============================================================ */
+
+@media (max-width: 720px) {
+    .post-content h2 {
+        font-size: 22px;
+    }
+
+    .post-content h3 {
+        font-size: 17px;
+    }
+
+    .post-content table {
+        font-size: 13px;
+    }
+
+    .post-content table th,
+    .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+        padding: 8px 10px;
+    }
+}
