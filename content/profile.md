@@ -6,32 +6,51 @@ TocOpen: true
 draft: false
 ---
 
+<div style="margin-bottom: 1.5rem;">
+  <a href="/cv/Alberto_Eusebio_CV.pdf" download style="display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.5rem 1rem; border: 1px solid rgba(128,128,128,0.4); border-radius: 6px; font-size: 0.9rem; text-decoration: none;">⬇ Download CV</a>
+</div>
+
 ## 👤 Summary
 
-I'm a Research Engineer at Huawei in Paris, working on continual learning and hippocampus-inspired Transformer architectures. Before that, my master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
+**AI/ML Engineer** specialising in deep learning, computer vision, and LLM research. Currently at Huawei (Paris) working on continual learning and hippocampus-inspired Transformer architectures. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
 
-Along the way I also won a 36-hour hackathon with an LLM mobile app (Aurora), led GenAI prototypes for 5+ enterprise clients at Salesforce, and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
+Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led GenAI prototypes for 5+ enterprise clients at Salesforce, and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
 
 > **MSc, Politecnico di Milano** `110/110` &ensp;·&ensp; **BSc, Politecnico di Torino** `110/110 cum laude`
 > Alta Scuola Politecnica &ensp;·&ensp; Intraprendenti honor program
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.25rem 0 1.75rem 0;">
-  <div style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; padding: 0.8rem 1.1rem; flex: 1; min-width: 120px; text-align: center;">
-    <div style="font-size: 1.5rem; font-weight: 700; line-height: 1.1;">4</div>
-    <div style="font-size: 0.78rem; margin-top: 0.2rem; opacity: 0.65;">Peer-reviewed publications</div>
+<div class="stat-grid">
+  <div class="stat-card">
+    <div class="stat-value">4</div>
+    <div class="stat-label">Peer-reviewed publications</div>
   </div>
-  <div style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; padding: 0.8rem 1.1rem; flex: 1; min-width: 120px; text-align: center;">
-    <div style="font-size: 1.5rem; font-weight: 700; line-height: 1.1;">110<span style="font-size: 0.85rem;">/110</span></div>
-    <div style="font-size: 0.78rem; margin-top: 0.2rem; opacity: 0.65;">Both MSc &amp; BSc degrees</div>
+  <div class="stat-card">
+    <div class="stat-value">110<span>/110</span></div>
+    <div class="stat-label">Both MSc &amp; BSc degrees</div>
   </div>
-  <div style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; padding: 0.8rem 1.1rem; flex: 1; min-width: 120px; text-align: center;">
-    <div style="font-size: 1.5rem; font-weight: 700; line-height: 1.1;">2×</div>
-    <div style="font-size: 0.78rem; margin-top: 0.2rem; opacity: 0.65;">IHPVA World Champion</div>
+  <div class="stat-card">
+    <div class="stat-value">2×</div>
+    <div class="stat-label">IHPVA World Champion</div>
   </div>
-  <div style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; padding: 0.8rem 1.1rem; flex: 1; min-width: 120px; text-align: center;">
-    <div style="font-size: 1.5rem; font-weight: 700; line-height: 1.1;">5+</div>
-    <div style="font-size: 0.78rem; margin-top: 0.2rem; opacity: 0.65;">Enterprise clients (Salesforce)</div>
+  <div class="stat-card">
+    <div class="stat-value">5+</div>
+    <div class="stat-label">Enterprise clients (Salesforce)</div>
   </div>
+</div>
+
+<div class="skills-chips">
+  <span class="skill-chip accent">PyTorch</span>
+  <span class="skill-chip accent">Deep Learning</span>
+  <span class="skill-chip accent">Computer Vision</span>
+  <span class="skill-chip accent">LLMs</span>
+  <span class="skill-chip accent">Continual Learning</span>
+  <span class="skill-chip">Transformers</span>
+  <span class="skill-chip">Hugging Face</span>
+  <span class="skill-chip">LangChain</span>
+  <span class="skill-chip">AI Agents</span>
+  <span class="skill-chip">XAI</span>
+  <span class="skill-chip">Python</span>
+  <span class="skill-chip">AWS</span>
 </div>
 
 ## 💼 Experience
@@ -39,7 +58,11 @@ Along the way I also won a 36-hour hackathon with an LLM mobile app (Aurora), le
 ### Research Engineer
 **Huawei** | Paris, France | 10/2025 – Present
 
-Working on continual learning and hippocampus-inspired Transformer architectures.
+Working on continual learning and memory-inspired Transformer architectures, studying how LLMs store and update knowledge.
+
+- Co-authored an **ICML 2026 submission** (currently under peer review) on episodic knowledge binding in LLMs.
+- Built evaluation pipelines for studying parametric memory failures in frontier models.
+- Running multi-GPU fine-tuning experiments to understand and mitigate collateral knowledge damage during model updates.
 
 <hr>
 
@@ -159,12 +182,54 @@ DOI: <a href="https://doi.org/10.1016/j.esmorw.2025.100335">10.1016/j.esmorw.202
 
 ## 🛠️ Skills
 
-| Area | Topics |
-|---|---|
-| **ML / AI** | Deep Learning, Computer Vision, CNNs, Vision Transformers, GANs, NLP, RAG, LLM Applications, AI Agents, Continual Learning, Online Learning |
-| **Trustworthy AI** | Explainability (SmoothGradCAM++, XAI), Fairness Assessment, Healthcare Evaluation, Reproducibility |
-| **Frameworks** | Python, TensorFlow, PyTorch, scikit-learn, Hugging Face, LangChain, FAISS, AWS Lambda, AWS Bedrock |
-| **Systems** | MQTT, Raspberry Pi, ESP32, Garmin ANT+, IoT telemetry pipelines, PCB design (Altium) |
+**ML / AI**
+<div class="skills-chips">
+  <span class="skill-chip accent">Deep Learning</span>
+  <span class="skill-chip accent">Computer Vision</span>
+  <span class="skill-chip accent">CNNs</span>
+  <span class="skill-chip accent">Vision Transformers</span>
+  <span class="skill-chip accent">GANs</span>
+  <span class="skill-chip accent">NLP</span>
+  <span class="skill-chip accent">RAG</span>
+  <span class="skill-chip accent">LLM Applications</span>
+  <span class="skill-chip accent">AI Agents</span>
+  <span class="skill-chip accent">Continual Learning</span>
+  <span class="skill-chip accent">Online Learning</span>
+</div>
+
+**Trustworthy AI**
+<div class="skills-chips">
+  <span class="skill-chip">XAI / SmoothGradCAM++</span>
+  <span class="skill-chip">Fairness Assessment</span>
+  <span class="skill-chip">Healthcare Evaluation</span>
+  <span class="skill-chip">Reproducibility</span>
+</div>
+
+**Frameworks & Tools**
+<div class="skills-chips">
+  <span class="skill-chip">PyTorch</span>
+  <span class="skill-chip">TensorFlow</span>
+  <span class="skill-chip">scikit-learn</span>
+  <span class="skill-chip">Hugging Face</span>
+  <span class="skill-chip">LangChain</span>
+  <span class="skill-chip">LangGraph</span>
+  <span class="skill-chip">FAISS</span>
+  <span class="skill-chip">DeepSpeed</span>
+  <span class="skill-chip">AWS Lambda</span>
+  <span class="skill-chip">AWS Bedrock</span>
+</div>
+
+**Languages & Systems**
+<div class="skills-chips">
+  <span class="skill-chip">Python</span>
+  <span class="skill-chip">C / C++</span>
+  <span class="skill-chip">Java</span>
+  <span class="skill-chip">MQTT</span>
+  <span class="skill-chip">Raspberry Pi</span>
+  <span class="skill-chip">ESP32</span>
+  <span class="skill-chip">IoT / Telemetry</span>
+  <span class="skill-chip">PCB Design (Altium)</span>
+</div>
 
 ## 📬 Contact
 

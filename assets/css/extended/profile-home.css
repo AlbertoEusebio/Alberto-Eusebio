@@ -2,7 +2,7 @@
    HOME PROFILE — horizontal layout, no card
    ============================================================ */
 
-/* Ambient glow — kept, just no card box around it */
+/* Ambient glow — richer, multi-tone */
 .main .profile {
     position: relative;
     overflow: visible;
@@ -12,11 +12,12 @@
     content: "";
     position: absolute;
     inset: 0% 0% auto 0%;
-    height: 340px;
+    height: 420px;
     background:
-        radial-gradient(circle at 15% 50%, rgba(87, 142, 255, 0.16), transparent 45%),
-        radial-gradient(circle at 78% 40%, rgba(56, 189, 248, 0.11), transparent 44%);
-    filter: blur(44px);
+        radial-gradient(circle at 12% 55%, rgba(87, 142, 255, 0.22), transparent 42%),
+        radial-gradient(circle at 75% 35%, rgba(56, 189, 248, 0.16), transparent 42%),
+        radial-gradient(circle at 50% 80%, rgba(124, 58, 237, 0.08), transparent 40%);
+    filter: blur(52px);
     pointer-events: none;
     z-index: 0;
 }
@@ -42,7 +43,6 @@
     row-gap: 10px;
     align-items: start;
     text-align: left;
-    /* No border, no background, no shadow */
     animation: profileIntroRise 0.65s ease-out both;
 }
 
@@ -52,14 +52,14 @@
     grid-row: 1 / -1;
     align-self: center;
     border-radius: 50%;
-    border: 3px solid var(--border);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.13);
+    border: 3px solid rgba(87, 142, 255, 0.45);
+    box-shadow: 0 8px 28px rgba(87, 142, 255, 0.18), 0 2px 8px rgba(0,0,0,0.12);
     transition: transform 0.24s ease, box-shadow 0.24s ease;
 }
 
 .profile .profile_inner img:hover {
-    transform: translateY(-3px) scale(1.02);
-    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px) scale(1.03);
+    box-shadow: 0 18px 40px rgba(87, 142, 255, 0.28), 0 4px 12px rgba(0,0,0,0.16);
 }
 
 /* Name */
@@ -82,6 +82,11 @@
     color: var(--secondary);
 }
 
+/* Bold text in subtitle slightly brighter */
+.profile .profile_inner > span strong {
+    color: var(--primary);
+}
+
 /* Social icons */
 .profile .profile_inner .social-icons {
     grid-column: 2;
@@ -94,23 +99,46 @@
     max-width: none;
     margin-top: 2px;
     justify-content: flex-start;
+    gap: 10px;
 }
 
 .profile .button {
     border: 1px solid var(--border);
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.07);
-    transition: transform 0.14s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: transform 0.14s ease, box-shadow 0.18s ease, background-color 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+    font-weight: 500;
 }
 
 .profile .button:hover {
-    transform: translateY(-1px);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.13);
+}
+
+/* Primary CTA — Profile button (first) */
+.profile .buttons a:first-child {
+    background: #578eff;
+    color: #fff !important;
+    border-color: #578eff;
+    box-shadow: 0 4px 14px rgba(87, 142, 255, 0.35);
+}
+
+.profile .buttons a:first-child:hover {
+    background: #3b6edf;
+    border-color: #3b6edf;
+    color: #fff !important;
+    box-shadow: 0 8px 22px rgba(87, 142, 255, 0.45);
+    transform: translateY(-2px);
+}
+
+/* Secondary buttons */
+.profile .buttons a:not(:first-child):hover {
     background: var(--secondary);
     color: var(--theme);
-    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.13);
+    border-color: transparent;
 }
 
 @keyframes profileIntroRise {
-    from { opacity: 0; transform: translateY(12px); }
+    from { opacity: 0; transform: translateY(14px); }
     to   { opacity: 1; transform: translateY(0); }
 }
 
@@ -147,6 +175,6 @@
     }
 
     .main .profile::before {
-        height: 200px;
+        height: 220px;
     }
 }

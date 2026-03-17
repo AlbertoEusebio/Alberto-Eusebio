@@ -387,3 +387,46 @@ SELECTED IMPACT THEMES
 
 NOTES FOR PUBLIC USE
 This CV is intentionally conservative and evidence-based. Some entries, especially Huawei, NLP-RAG1200, and SE2-project, should be expanded only with additional direct documentation. Publication titles, dates, and quantitative claims should be checked against the final authoritative sources before external submission.
+
+
+### Research CV Dump ###
+
+Alberto Eusebio	Paris, FR |  albertoeusebio72@gmail.com | LinkedIn | Google Scholar | ORCID | GitHub
+SUMMARY
+Research Engineer at Huawei Paris studying episodic memory and continual learning in LLMs. Seeking a PhD position. Co-author of ICML 2026 submission. 4 peer-reviewed publications (IEEE EMBC, ESMO AI, ECAI, ECML PKDD).  MSc 110/110, BSc 110/110 cum laude, Alta Scuola Politecnica.
+EDUCATION
+MSc Computer Science and Engineering (AI) – Politecnico di Milano	Milan, Italy | 09/2023 – 12/2025
+Final Grade: 110/110 highest honors. Alta Scuola Politecnica: Top 150 engineering students across Politecnico di Milano and Politecnico di Torino.
+BSc Computer Engineering – Politecnico di Torino	Turin, Italy  | 09/2020 – 12/2023
+Final Grade: 110/110 cum laude. Intraprendenti Honor Program: Top 200 engineering students at Politecnico di Torino.
+RESEARCH EXPERIENCE
+Research Engineer  –  Huawei Paris Research Center	 Paris, France | 10/2025 – Present
+Co-authored ICML 2026 submission (currently under peer review).
+Built a custom evaluation dataset and LLM-as-judge pipeline to study parametric binding failures in frontier LLMs, using synthetic generation, automated filtering, and manual curation; achieved 98–99% agreement with human annotators.
+Investigating gradient-based detection of collateral knowledge damage during fine-tuning: running multi-GPU full fine-tuning experiments across GPT-2-XL, Llama-3-8B, and Mistral-7B to analyze how different update types damage unrelated knowledge and proposing neuron-level protection strategies to mitigate it.
+Graduate Student Researcher  –  National Cancer Institute (IRCCS)	Milan, Italy | 09/2024 – 12/2025
+4 peer-reviewed publications: IEEE EMBC 2025, ESMO AI 2025, AEQUITAS @ ECAI 2025, PharML @ ECML PKDD 2025.
+Reviewer for the 47th IEEE EMBC conference.
+Developed 2D/3D ResNet50 pipelines for 6-month survival prediction in advanced NSCLC (385 patients, Apollo11 cohort), achieving 0.74 F1 with explainability and fairness assessments.
+Graduate Student Researcher  –  NECST Lab	Milan, Italy | 11/2023 – 06/2024
+Built Aurora, a mental well-being mobile app powered by fine-tuned Meta-Llama-3.1-70B (AWS Bedrock), with serverless backend (Lambda) and React Native frontend. 27-participant user study.
+Won Hack at the NECSTCamp (36-hour AI hackathon).
+INDUSTRY EXPERIENCE
+Solution Engineer Intern  –  Salesforce	Milan, Italy | 09/2024 – 07/2025
+Built and demoed GenAI agents on the Agentforce platform for 5+ enterprise clients, integrating sales and service automation workflows under real security and compliance constraints.
+Software Engineer & Team Leader –  Student Team Policumbent	 Turin, Italy | 03/2021 – 10/2023
+Led 100+ students across 9 engineering divisions. Won IHPVA World Human Powered Speed Challenge 2022 & 2023, matching the world record. Built embedded telemetry (Raspberry Pi, ESP32, MQTT) for vehicles at 130+ km/h.
+PROJECTS
+Autonomous Grapevine Pruning  –  PIC4SeR Laboratory / Yanmar S.P.A. (Alta Scuola Politecnica)	Turin, Italy | 2024 – 2025
+End-to-end computer vision pipeline for autonomous agricultural pruning. Built a stacked Hourglass Network for vine keypoint detection, a graph-based topology reconstruction module, and heuristic pruning logic derived from expert agronomic knowledge. Achieved 95% precision, 90% recall, 92% F1 under variable real-world lighting and vine density conditions.
+PUBLICATIONS
+[Under Review] Episodic Knowledge Binding: A New Challenge for LLM Continual Learning. ICML 2026
+Trustworthy Assessment of 2D Model for Lung CT Scans. IEEE EMBC 2025  (DOI: 10.1109/EMBC58623.2025.11254399)
+CT-based 3D ResNet50 for Predicting Survival in NSCLC Patients. ESMO AI 2025  (DOI: 10.1016/j.esmorw.2025.100335)
+Trustworthy Assessment of 2D Deep Learning Model for Lung CT Scans. AEQUITAS @ ECAI 2025
+Trustworthy Evaluation of 2D Deep Learning Model for Lung CT Scans. PharML @ ECML PKDD 2025
+SKILLS
+Programming Languages: Python, C, C++, Java. 	Frameworks: PyTorch, TensorFlow, HuggingFace, LangGraph, LangChain.
+ML/AI: Deep Learning, Continual Learning, Model Evaluation, Explainability, Fairness.
+Libraries: DeepSpeed, Matplotlib, Pandas, Seaborn, NumPy, Scikit-Learn.
+Spoken Languages: Italian (Native), English (C1 Advanced), German (A2 Goethe-Zertifikat).
