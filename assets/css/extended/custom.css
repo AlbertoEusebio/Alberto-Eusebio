@@ -172,19 +172,22 @@ body {
 /* Inline code — distinct treatment for stats */
 .post-content p code,
 .post-content li code,
-.post-content td code {
+.post-content td code,
+.post-content blockquote p code {
     background: rgba(87, 142, 255, 0.1);
     color: var(--primary);
-    border-radius: 4px;
-    padding: 2px 7px;
+    border-radius: 20px;
+    padding: 2px 9px;
     font-size: 0.82em;
     font-weight: 600;
+    font-family: inherit;
     border: 1px solid rgba(87, 142, 255, 0.2);
 }
 
 .dark .post-content p code,
 .dark .post-content li code,
-.dark .post-content td code {
+.dark .post-content td code,
+.dark .post-content blockquote p code {
     background: rgba(87, 142, 255, 0.15);
     border-color: rgba(87, 142, 255, 0.3);
     color: #9ab8ff;
@@ -199,17 +202,29 @@ body {
     padding: 0 12px;
     line-height: 28px;
     border-radius: 20px;
-    background: var(--code-bg);
-    border: 1px solid var(--border);
-    transition: background 0.14s ease, color 0.14s ease, transform 0.1s ease;
+    background: rgba(87, 142, 255, 0.07);
+    border: 1px solid rgba(87, 142, 255, 0.2);
+    transition: background 0.14s ease, color 0.14s ease, transform 0.1s ease, border-color 0.14s ease;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .post-tags a:hover {
-    background: var(--secondary);
-    color: var(--theme);
+    background: rgba(87, 142, 255, 0.18);
+    color: var(--primary);
     transform: translateY(-1px);
-    border-color: transparent;
+    border-color: rgba(87, 142, 255, 0.4);
+}
+
+.dark .post-tags a {
+    background: rgba(87, 142, 255, 0.1);
+    border-color: rgba(87, 142, 255, 0.25);
+}
+
+.dark .post-tags a:hover {
+    background: rgba(87, 142, 255, 0.22);
+    border-color: rgba(87, 142, 255, 0.5);
+    color: #9ab8ff;
 }
 
 /* ============================================================
@@ -308,9 +323,9 @@ body {
     min-width: 120px;
     text-align: center;
     padding: 0.9rem 1.1rem;
-    border: 1px solid rgba(87, 142, 255, 0.2);
+    border: 2px solid rgba(87, 142, 255, 0.35);
     border-radius: 10px;
-    background: rgba(87, 142, 255, 0.05);
+    background: rgba(87, 142, 255, 0.08);
     transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
@@ -321,8 +336,8 @@ body {
 }
 
 .stat-card .stat-value {
-    font-size: 1.6rem;
-    font-weight: 700;
+    font-size: 1.9rem;
+    font-weight: 800;
     line-height: 1.1;
     color: var(--primary);
 }
@@ -340,8 +355,8 @@ body {
 }
 
 .dark .stat-card {
-    background: rgba(87, 142, 255, 0.07);
-    border-color: rgba(87, 142, 255, 0.18);
+    background: rgba(87, 142, 255, 0.12);
+    border-color: rgba(87, 142, 255, 0.38);
 }
 
 /* ============================================================

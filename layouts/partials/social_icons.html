@@ -1,0 +1,14 @@
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    {{- range site.Params.socialIcons }}
+    {{- $url := trim .url " " | safeURL }}
+    {{- if hasPrefix $url "mailto:" }}
+    <a href="{{ $url }}" rel="me"
+        title="{{ (.title | default .name) | title }}">
+    {{- else }}
+    <a href="{{ $url }}" target="_blank" rel="noopener noreferrer me"
+        title="{{ (.title | default .name) | title }}">
+    {{- end }}
+        {{ partial "svg.html" . }}
+    </a>
+    {{- end }}
+</div>

@@ -2,7 +2,8 @@
 public/
 resources/_gen/
 .hugo_build.lock
-*.pdf 
+*.pdf
+!static/cv/Alberto_Eusebio_CV.pdf
 _cv.js
 # Node
 node_modules/

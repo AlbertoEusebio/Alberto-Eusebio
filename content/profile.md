@@ -12,11 +12,11 @@ draft: false
 
 ## 👤 Summary
 
-**AI/ML Engineer** specialising in deep learning, computer vision, and LLM research. Currently at Huawei (Paris) working on continual learning and hippocampus-inspired Transformer architectures. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
+I'm a Research Engineer at Huawei in Paris, working on continual learning and hippocampus-inspired Transformer architectures. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
 
 Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led GenAI prototypes for 5+ enterprise clients at Salesforce, and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
 
-> **MSc, Politecnico di Milano** `110/110` &ensp;·&ensp; **BSc, Politecnico di Torino** `110/110 cum laude`
+> **MSc, Politecnico di Milano** `110/110` &ensp;·&ensp; **BSc, Politecnico di Torino** `110/110` cum laude
 > Alta Scuola Politecnica &ensp;·&ensp; Intraprendenti honor program
 
 <div class="stat-grid">

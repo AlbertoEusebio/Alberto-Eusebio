@@ -52,6 +52,10 @@
     grid-row: 1 / -1;
     align-self: center;
     border-radius: 50%;
+    object-fit: cover;
+    object-position: top center;
+    width: 240px;
+    height: 240px;
     border: 3px solid rgba(87, 142, 255, 0.45);
     box-shadow: 0 8px 28px rgba(87, 142, 255, 0.18), 0 2px 8px rgba(0,0,0,0.12);
     transition: transform 0.24s ease, box-shadow 0.24s ease;
@@ -91,6 +95,7 @@
 .profile .profile_inner .social-icons {
     grid-column: 2;
     justify-content: flex-start;
+    margin: 1.5rem 0;
 }
 
 /* Buttons */
@@ -135,6 +140,17 @@
     background: var(--secondary);
     color: var(--theme);
     border-color: transparent;
+}
+
+/* Ghost buttons — higher contrast in dark mode */
+.dark .profile .buttons a:not(:first-child) {
+    border-color: rgba(255, 255, 255, 0.35);
+    color: rgba(255, 255, 255, 0.88);
+}
+
+.dark .profile .buttons a:not(:first-child):hover {
+    border-color: transparent;
+    color: var(--theme);
 }
 
 @keyframes profileIntroRise {
