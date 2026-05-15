@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/posts/policumbent/</loc>
+    <loc>http://localhost:42439/projects/posts/policumbent/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/posts/aurora/</loc>
+    <loc>http://localhost:42439/projects/posts/aurora/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/posts/nsclc-trustworthy-ct/</loc>
+    <loc>http://localhost:42439/projects/posts/nsclc-trustworthy-ct/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/posts/grapevine-pruning/</loc>
+    <loc>http://localhost:42439/projects/posts/grapevine-pruning/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:42439/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws-bedrock/</loc>
+    <loc>http://localhost:42439/tags/aws-bedrock/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws-lambda/</loc>
+    <loc>http://localhost:42439/tags/aws-lambda/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:42439/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cnn/</loc>
+    <loc>http://localhost:42439/tags/cnn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc>
+    <loc>http://localhost:42439/tags/computer-vision/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <loc>http://localhost:42439/tags/deep-learning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/embedded-systems--telemetry/</loc>
+    <loc>http://localhost:42439/tags/embedded-systems--telemetry/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/expo/</loc>
+    <loc>http://localhost:42439/tags/expo/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/fairness/</loc>
+    <loc>http://localhost:42439/tags/fairness/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/gan/</loc>
+    <loc>http://localhost:42439/tags/gan/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/healthcare-ai/</loc>
+    <loc>http://localhost:42439/tags/healthcare-ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>http://localhost:42439/tags/javascript/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>http://localhost:42439/tags/llm/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/llm-applications/</loc>
+    <loc>http://localhost:42439/tags/llm-applications/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mobile/</loc>
+    <loc>http://localhost:42439/tags/mobile/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/nlp/</loc>
+    <loc>http://localhost:42439/tags/nlp/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:42439/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/profile/</loc>
+    <loc>http://localhost:42439/profile/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:42439/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/react-native/</loc>
+    <loc>http://localhost:42439/tags/react-native/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/robotics/</loc>
+    <loc>http://localhost:42439/tags/robotics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:42439/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/trustworthy-ai/</loc>
+    <loc>http://localhost:42439/tags/trustworthy-ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/vision-transformer/</loc>
+    <loc>http://localhost:42439/tags/vision-transformer/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/xai/</loc>
+    <loc>http://localhost:42439/tags/xai/</loc>
   </url>
 </urlset>

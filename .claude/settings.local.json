@@ -14,7 +14,8 @@
       "Bash(gh api *)",
       "Bash(curl -s https://raw.githubusercontent.com/policumbent/sara/main/README.md)",
       "Bash(hugo)",
-      "Bash(hugo --cleanDestinationDir)"
+      "Bash(hugo --cleanDestinationDir)",
+      "Bash(hugo server *)"
     ]
   }
 }

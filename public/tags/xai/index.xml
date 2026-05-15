@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XAI on Alberto Eusebio</title>
-    <link>http://localhost:1313/tags/xai/</link>
+    <link>http://localhost:42439/tags/xai/</link>
     <description>Recent content in XAI on Alberto Eusebio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>albertoeusebio72@gmail.com (Alberto Eusebio)</managingEditor>
     <webMaster>albertoeusebio72@gmail.com (Alberto Eusebio)</webMaster>
-    <atom:link href="http://localhost:1313/tags/xai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42439/tags/xai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trustworthy CT Modeling for NSCLC Survival</title>
-      <link>http://localhost:1313/projects/posts/nsclc-trustworthy-ct/</link>
+      <link>http://localhost:42439/projects/posts/nsclc-trustworthy-ct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:1313/projects/posts/nsclc-trustworthy-ct/</guid>
+      <guid>http://localhost:42439/projects/posts/nsclc-trustworthy-ct/</guid>
       <description>Master thesis research in healthcare AI, computer vision, and trustworthy evaluation</description>
     </item>
   </channel>
