@@ -12,7 +12,7 @@ draft: false
 
 ## 👤 Summary
 
-Research Engineer specialising in continual learning and LLM post-training. Currently at Huawei Paris Research Center working on how LLMs store and update knowledge, with focus on catastrophic forgetting and episodic memory in Transformers. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
+Research Engineer specialising in continual learning and LLM post-training. Currently at Huawei Paris Research Center working on how LLMs store and update knowledge, with focus on catastrophic forgetting and episodic memory in Transformers. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, ECAI 2025, and ECML PKDD.
 
 Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led GenAI prototypes for 5+ enterprise clients at Salesforce, and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
 
