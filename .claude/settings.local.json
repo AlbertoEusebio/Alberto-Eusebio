@@ -9,7 +9,12 @@
       "Bash(which python3:*)",
       "Bash(cd \"/mnt/c/Users/alber/Desktop/programming/2024_EUSEBIO_XAI-multimodal-cohort-NSCLC-patients/Alberto-Eusebio\" && hugo --minify 2>&1)",
       "Bash(grep:*)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "WebFetch(domain:www.policumbent.it)",
+      "Bash(gh api *)",
+      "Bash(curl -s https://raw.githubusercontent.com/policumbent/sara/main/README.md)",
+      "Bash(hugo)",
+      "Bash(hugo --cleanDestinationDir)"
     ]
   }
 }

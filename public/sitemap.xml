@@ -2,41 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/posts/nlp-rag1200/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/posts/lung-cancer-classification/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/posts/ola-project/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/posts/se2-project/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/posts/brain-stroke-prediction/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/posts/weatherstation/</loc>
-  </url><url>
     <loc>http://localhost:1313/projects/posts/policumbent/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/posts/aurora/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/posts/salesforce-agentforce/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/posts/nsclc-trustworthy-ct/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/posts/grapevine-pruning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-agents/</loc>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/alloy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/architecture/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/aws-bedrock/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/aws-lambda/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/bandits/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
@@ -46,53 +24,25 @@
   </url><url>
     <loc>http://localhost:1313/tags/deep-learning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamic-pricing/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/efficientnet/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/embedded-systems/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/enterprise-ai/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/esp32/</loc>
+    <loc>http://localhost:1313/tags/embedded-systems--telemetry/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/expo/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/fairness/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/faiss/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/gan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/generative-ai/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/healthcare-ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/iot/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/javascript/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/jupyter/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/langchain/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/llm/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/llm-applications/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/medical-imaging/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/mobile/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mqtt/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/nlp/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/online-learning/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/optimization/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
@@ -100,33 +50,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/rag/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/react-native/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/requirements-engineering/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/robotics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/software-engineering/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/solution-engineering/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/streaming-data/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/system-design/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/telemetry/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/tensorflow/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/trustworthy-ai/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/uml/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/vision-transformer/</loc>
   </url><url>

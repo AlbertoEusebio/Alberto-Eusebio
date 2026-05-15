@@ -44,3 +44,7 @@ Keypoint detection results on the project test set. The 92% F1 was achieved unde
 ## 🎯 Significance
 
 95% precision and 92% F1 on a task that requires reasoning over 3D vine structure from flat images, under real agricultural conditions. The full pipeline runs from raw image to pruning decision with no human in the loop at inference time, encoding decades of expert agronomic knowledge as graph traversal logic.
+
+## 🔗 Links
+
+- **GitHub**: [AlbertoEusebio/VinPRO](https://github.com/AlbertoEusebio/VinPRO)

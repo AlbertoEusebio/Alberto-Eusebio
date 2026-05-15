@@ -10,20 +10,6 @@
     <webMaster>albertoeusebio72@gmail.com (Alberto Eusebio)</webMaster>
     <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lung Cancer Classification</title>
-      <link>http://localhost:1313/projects/posts/lung-cancer-classification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:1313/projects/posts/lung-cancer-classification/</guid>
-      <description>Medical-imaging project comparing binary and five-class lung malignancy pipelines across full and zoomed CT slices.</description>
-    </item>
-    <item>
-      <title>Brain Stroke Prediction: Replication and Critical Evaluation</title>
-      <link>http://localhost:1313/projects/posts/brain-stroke-prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:1313/projects/posts/brain-stroke-prediction/</guid>
-      <description>Reproducibility study of a stroke-risk prediction paper using classical ML with rigorous evaluation protocol analysis</description>
-    </item>
-    <item>
       <title>Autonomous Grapevine Pruning (PIC4SeR / Yanmar)</title>
       <link>http://localhost:1313/projects/posts/grapevine-pruning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>

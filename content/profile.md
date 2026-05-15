@@ -12,7 +12,7 @@ draft: false
 
 ## 👤 Summary
 
-I'm a Research Engineer at Huawei in Paris, working on continual learning and hippocampus-inspired Transformer architectures. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
+Research Engineer specialising in continual learning and LLM post-training. Currently at Huawei Paris Research Center working on how LLMs store and update knowledge, with focus on catastrophic forgetting and episodic memory in Transformers. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI, and ECML PKDD.
 
 Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led GenAI prototypes for 5+ enterprise clients at Salesforce, and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
 
@@ -44,10 +44,9 @@ Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led Gen
   <span class="skill-chip accent">Computer Vision</span>
   <span class="skill-chip accent">LLMs</span>
   <span class="skill-chip accent">Continual Learning</span>
-  <span class="skill-chip">Transformers</span>
-  <span class="skill-chip">Hugging Face</span>
-  <span class="skill-chip">LangChain</span>
-  <span class="skill-chip">AI Agents</span>
+  <span class="skill-chip">Distributed Training</span>
+  <span class="skill-chip">DeepSpeed</span>
+  <span class="skill-chip">HuggingFace Transformers</span>
   <span class="skill-chip">XAI</span>
   <span class="skill-chip">Python</span>
   <span class="skill-chip">AWS</span>
@@ -58,11 +57,11 @@ Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led Gen
 ### Research Engineer
 **Huawei** | Paris, France | 10/2025 – Present
 
-Working on continual learning and memory-inspired Transformer architectures, studying how LLMs store and update knowledge.
+Working on episodic memory and continual learning in LLMs, studying how models store and update knowledge without catastrophic forgetting.
 
-- Co-authored an **ICML 2026 submission** (currently under peer review) on episodic knowledge binding in LLMs.
-- Built evaluation pipelines for studying parametric memory failures in frontier models.
-- Running multi-GPU fine-tuning experiments to understand and mitigate collateral knowledge damage during model updates.
+- Designed and maintained training pipelines for **1,000+** multi-GPU full fine-tuning runs on Mistral and LLaMA models using **DeepSpeed ZeRO-2**.
+- Built gradient-tracking infrastructure to regularize fine-tuning and reduce catastrophic forgetting.
+- Built an end-to-end synthetic data pipeline generating **21K+** high-quality training samples; developed an **LLM-as-judge** evaluation system achieving **98–99% agreement** with human annotators across 500+ test cases.
 
 <hr>
 
@@ -90,6 +89,7 @@ Yanmar wanted to automate grapevine pruning. The approach: detect vine structure
 - Designed a graph-based reconstruction module converting 2D detections into vine topology.
 - Integrated heuristic pruning strategies derived from expert agronomic knowledge.
 - Achieved **95% precision**, **90% recall**, **92% F1** on the keypoint detection module.
+- **GitHub**: [AlbertoEusebio/VinPRO](https://github.com/AlbertoEusebio/VinPRO)
 
 <hr>
 
@@ -137,16 +137,6 @@ First engineering role: embedded systems and telemetry for Cerberus and Phoenix,
 - Improved rider performance by **20%** on the Cerberus handbike workstream.
 - Contributed to the **IHPVA World Human Powered Speed Challenge win in 2022** 🏆.
 
-<hr>
-
-### Software Engineer
-**Aquaseek** | Turin, Italy | 04/2022 – 07/2022
-
-Part-time role during my BSc. Aquaseek builds atmospheric water generator machines; I handled the monitoring software side.
-
-- Built a Python desktop app for remote control and real-time visualisation (Matplotlib) of AWG machines.
-- Designed the company's database schema and a Telegram-bot for automated alerting.
-
 ## 🎓 Education
 
 | Degree | Institution | Period | Grade |
@@ -188,13 +178,13 @@ DOI: <a href="https://doi.org/10.1016/j.esmorw.2025.100335">10.1016/j.esmorw.202
   <span class="skill-chip accent">Computer Vision</span>
   <span class="skill-chip accent">CNNs</span>
   <span class="skill-chip accent">Vision Transformers</span>
-  <span class="skill-chip accent">GANs</span>
+  <span class="skill-chip accent">LLMs</span>
   <span class="skill-chip accent">NLP</span>
-  <span class="skill-chip accent">RAG</span>
-  <span class="skill-chip accent">LLM Applications</span>
-  <span class="skill-chip accent">AI Agents</span>
   <span class="skill-chip accent">Continual Learning</span>
-  <span class="skill-chip accent">Online Learning</span>
+  <span class="skill-chip accent">Distributed Training</span>
+  <span class="skill-chip accent">Post-training</span>
+  <span class="skill-chip accent">Model Evaluation &amp; Benchmarking</span>
+  <span class="skill-chip accent">Training &amp; Data Pipelines</span>
 </div>
 
 **Trustworthy AI**
@@ -208,27 +198,34 @@ DOI: <a href="https://doi.org/10.1016/j.esmorw.2025.100335">10.1016/j.esmorw.202
 **Frameworks & Tools**
 <div class="skills-chips">
   <span class="skill-chip">PyTorch</span>
-  <span class="skill-chip">TensorFlow</span>
-  <span class="skill-chip">scikit-learn</span>
-  <span class="skill-chip">Hugging Face</span>
-  <span class="skill-chip">LangChain</span>
-  <span class="skill-chip">LangGraph</span>
-  <span class="skill-chip">FAISS</span>
   <span class="skill-chip">DeepSpeed</span>
-  <span class="skill-chip">AWS Lambda</span>
-  <span class="skill-chip">AWS Bedrock</span>
+  <span class="skill-chip">HuggingFace Transformers</span>
+  <span class="skill-chip">TensorFlow/Keras</span>
+  <span class="skill-chip">Scikit-Learn</span>
+  <span class="skill-chip">Pandas</span>
+  <span class="skill-chip">NumPy</span>
+  <span class="skill-chip">JAX</span>
+</div>
+
+**Infrastructure**
+<div class="skills-chips">
+  <span class="skill-chip">AWS</span>
+  <span class="skill-chip">Docker</span>
+  <span class="skill-chip">Git</span>
+  <span class="skill-chip">Linux</span>
+  <span class="skill-chip">REST API</span>
 </div>
 
 **Languages & Systems**
 <div class="skills-chips">
   <span class="skill-chip">Python</span>
+  <span class="skill-chip">Bash</span>
   <span class="skill-chip">C / C++</span>
   <span class="skill-chip">Java</span>
+  <span class="skill-chip">SQL</span>
   <span class="skill-chip">MQTT</span>
   <span class="skill-chip">Raspberry Pi</span>
   <span class="skill-chip">ESP32</span>
-  <span class="skill-chip">IoT / Telemetry</span>
-  <span class="skill-chip">PCB Design (Altium)</span>
 </div>
 
 ## 📬 Contact
