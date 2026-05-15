@@ -74,6 +74,4 @@ params:
     facebook_admin: ""
 
   # keep PaperMod RSS template on the non-deprecated path
-  author:
-    name: "Alberto Eusebio"
-    email: "albertoeusebio72@gmail.com"
+  author: "Alberto Eusebio"

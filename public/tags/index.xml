@@ -2,158 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alberto Eusebio</title>
-    <link>http://localhost:42439/tags/</link>
+    <link>http://localhost:42547/tags/</link>
     <description>Recent content in Tags on Alberto Eusebio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>albertoeusebio72@gmail.com (Alberto Eusebio)</managingEditor>
-    <webMaster>albertoeusebio72@gmail.com (Alberto Eusebio)</webMaster>
-    <atom:link href="http://localhost:42439/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42547/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Bedrock</title>
-      <link>http://localhost:42439/tags/aws-bedrock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/aws-bedrock/</guid>
+      <link>http://localhost:42547/tags/aws-bedrock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/aws-bedrock/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS Lambda</title>
-      <link>http://localhost:42439/tags/aws-lambda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/aws-lambda/</guid>
+      <link>http://localhost:42547/tags/aws-lambda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/aws-lambda/</guid>
       <description></description>
     </item>
     <item>
       <title>CNN</title>
-      <link>http://localhost:42439/tags/cnn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/cnn/</guid>
+      <link>http://localhost:42547/tags/cnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/cnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:42439/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/computer-vision/</guid>
+      <link>http://localhost:42547/tags/computer-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:42439/tags/deep-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/deep-learning/</guid>
+      <link>http://localhost:42547/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Embedded Systems &amp; Telemetry</title>
-      <link>http://localhost:42439/tags/embedded-systems--telemetry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/embedded-systems--telemetry/</guid>
+      <link>http://localhost:42547/tags/embedded-systems--telemetry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/embedded-systems--telemetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Expo</title>
-      <link>http://localhost:42439/tags/expo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/expo/</guid>
+      <link>http://localhost:42547/tags/expo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/expo/</guid>
       <description></description>
     </item>
     <item>
       <title>Fairness</title>
-      <link>http://localhost:42439/tags/fairness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/fairness/</guid>
+      <link>http://localhost:42547/tags/fairness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/fairness/</guid>
       <description></description>
     </item>
     <item>
       <title>GAN</title>
-      <link>http://localhost:42439/tags/gan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/gan/</guid>
+      <link>http://localhost:42547/tags/gan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/gan/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare AI</title>
-      <link>http://localhost:42439/tags/healthcare-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/healthcare-ai/</guid>
+      <link>http://localhost:42547/tags/healthcare-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/healthcare-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:42439/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/javascript/</guid>
+      <link>http://localhost:42547/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:42439/tags/llm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/llm/</guid>
+      <link>http://localhost:42547/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM Applications</title>
-      <link>http://localhost:42439/tags/llm-applications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/llm-applications/</guid>
+      <link>http://localhost:42547/tags/llm-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/llm-applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobile</title>
-      <link>http://localhost:42439/tags/mobile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/mobile/</guid>
+      <link>http://localhost:42547/tags/mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>http://localhost:42439/tags/nlp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/nlp/</guid>
+      <link>http://localhost:42547/tags/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:42439/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/python/</guid>
+      <link>http://localhost:42547/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>React Native</title>
-      <link>http://localhost:42439/tags/react-native/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/react-native/</guid>
+      <link>http://localhost:42547/tags/react-native/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/react-native/</guid>
       <description></description>
     </item>
     <item>
       <title>Robotics</title>
-      <link>http://localhost:42439/tags/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/robotics/</guid>
+      <link>http://localhost:42547/tags/robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>Trustworthy AI</title>
-      <link>http://localhost:42439/tags/trustworthy-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/trustworthy-ai/</guid>
+      <link>http://localhost:42547/tags/trustworthy-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/trustworthy-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Vision Transformer</title>
-      <link>http://localhost:42439/tags/vision-transformer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/vision-transformer/</guid>
+      <link>http://localhost:42547/tags/vision-transformer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/vision-transformer/</guid>
       <description></description>
     </item>
     <item>
       <title>XAI</title>
-      <link>http://localhost:42439/tags/xai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>albertoeusebio72@gmail.com (Alberto Eusebio)</author>
-      <guid>http://localhost:42439/tags/xai/</guid>
+      <link>http://localhost:42547/tags/xai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42547/tags/xai/</guid>
       <description></description>
     </item>
   </channel>

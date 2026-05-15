@@ -8,6 +8,12 @@ showToc: false
 weight: 206
 ---
 
+## 🎬 Demo
+
+<video controls width="100%" style="border-radius: 8px; margin-bottom: 1.5rem;">
+  <source src="/videos/presentation.mp4" type="video/mp4">
+</video>
+
 ## 🍇 Overview
 
 Autonomous grapevine pruning system developed within the **Alta Scuola Politecnica** interdisciplinary program, in collaboration with PIC4SeR (Politecnico di Torino Center for Service Robotics) and **Yanmar S.P.A.** The goal was to move expert pruning knowledge from human vintners into a fully autonomous perception-to-action pipeline.
