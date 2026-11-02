@@ -40,9 +40,9 @@ params:
     enabled: true
     title: "Alberto Eusebio"
     subtitle: |
-      🔬 Research Engineer at **Huawei Paris**
+      🏮 Engineering Lead at **[Lanturn](https://lanturn.io)**, turning everyday CAE work into AI agents, evals and training data
 
-      I build continual learning and memory-inspired Transformer architectures, studying how LLMs store and update knowledge. Previously: CT-based survival prediction for lung cancer patients at Italy's National Cancer Institute, published at **IEEE EMBC 2025**, **ESMO AI 2025**, **ECAI 2025**, and **ECML PKDD 2025**.
+      Ex **Salesforce** (enterprise AI agents on Agentforce) · ex **Huawei** Paris Research Center (continual learning and episodic memory in LLMs). Co-author of two **NeurIPS 2026 Main Track** papers on catastrophic forgetting and episodic memory in LLM fine-tuning; earlier work on trustworthy CT-based survival prediction published at **IEEE EMBC 2025** and **ESMO AI 2025**.
 
       **Polimi** MSc. AI `110/110` &ensp;·&ensp; **Polito** BSc. CS `110L/110` &ensp;·&ensp; Alta Scuola Politecnica &ensp;·&ensp; 2× IHPVA World Champion 🏆
     buttons:

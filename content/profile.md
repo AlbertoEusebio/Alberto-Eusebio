@@ -12,16 +12,20 @@ draft: false
 
 ## 👤 Summary
 
-Research Engineer specialising in continual learning and LLM post-training. Currently at Huawei Paris Research Center working on how LLMs store and update knowledge, with focus on catastrophic forgetting and episodic memory in Transformers. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed publications on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI 2025, and ECML PKDD.
+Engineering Lead at [Lanturn](https://lanturn.io), where we capture how expert engineers work in CAD and CAE tools and turn it into AI agents, evaluations and training data; I co-own the codebase and technical roadmap with the founder. Before that, Research Engineer at Huawei Paris Research Center on continual learning and episodic memory in LLMs, co-authoring two NeurIPS 2026 Main Track papers, and Solution Engineer at Salesforce building enterprise AI agents on Agentforce for 5+ large clients. My master thesis at Italy's National Cancer Institute produced 4 peer-reviewed outputs on CT-based survival prediction in lung cancer, across IEEE EMBC, ESMO AI, ECAI 2025, and ECML PKDD.
 
-Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led GenAI prototypes for 5+ enterprise clients at Salesforce, and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
+Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), and spent two years as software engineer and then team leader for Policumbent, winning the IHPVA world human-powered speed record twice.
 
 > **MSc, Politecnico di Milano** `110/110` &ensp;·&ensp; **BSc, Politecnico di Torino** `110/110` cum laude
 > Alta Scuola Politecnica &ensp;·&ensp; Intraprendenti honor program
 
 <div class="stat-grid">
   <div class="stat-card">
-    <div class="stat-value">4</div>
+    <div class="stat-value">2</div>
+    <div class="stat-label">NeurIPS 2026 Main Track papers</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">6</div>
     <div class="stat-label">Peer-reviewed publications</div>
   </div>
   <div class="stat-card">
@@ -31,10 +35,6 @@ Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led Gen
   <div class="stat-card">
     <div class="stat-value">2×</div>
     <div class="stat-label">IHPVA World Champion</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-value">5+</div>
-    <div class="stat-label">Enterprise clients (Salesforce)</div>
   </div>
 </div>
 
@@ -54,11 +54,25 @@ Along the way I won a 36-hour hackathon with an LLM mobile app (Aurora), led Gen
 
 ## 💼 Experience
 
+### Engineering Lead
+**Lanturn** | Paris, France | 09/2026 – Present
+
+[Lanturn](https://lanturn.io) captures how expert engineers work in CAD, CAM and CAE tools and turns that stream into structured reasoning and judgement signals: process maps, training datasets, evaluations, RL environments and self-improving agents, fine-tuned per enterprise on open-weight models.
+
+- Co-own the entire codebase and technical roadmap with the founder: capture stack, processing pipeline and enterprise platform.
+- Build self-improving CAD/CAE agents and per-enterprise fine-tuning of open-weight models (Mistral, Qwen, Llama) from captured judgement signals.
+- Gym-style CAD and CAE RL environments used by frontier labs, with CadQuery/OCCT for scale and Siemens NX for fidelity.
+
+<hr>
+
 ### Research Engineer
-**Huawei** | Paris, France | 10/2025 – Present
+**Huawei** | Paris, France | 10/2025 – 09/2026
 
-Working on episodic memory and continual learning in LLMs, studying how models store and update knowledge without catastrophic forgetting.
+Worked on episodic memory and continual learning in LLMs, studying how models store and update knowledge without catastrophic forgetting.
 
+- Co-authored two papers accepted to the **NeurIPS 2026 Main Track**: *Surprise, Episodic Context, and Catastrophic Forgetting in LLM Fine-Tuning: An Empirical Study* and *Do LLMs Bind Episodes? Probing Cross-Episode Parametric Retrieval Through Shared Cues*.
+- Co-developed a gradient-based neuron-allocation method for continual fine-tuning, improving retention of unrelated factual knowledge from **55% to 84–85%** on Mistral-7B and Llama-3-8B.
+- Adapted EWC, Synaptic Intelligence and Learning without Forgetting to LLM fine-tuning and benchmarked them across factual, ethical and coding updates.
 - Designed and maintained training pipelines for **1,000+** multi-GPU full fine-tuning runs on Mistral and LLaMA models using **DeepSpeed ZeRO-2**.
 - Built gradient-tracking infrastructure to regularize fine-tuning and reduce catastrophic forgetting.
 - Built an end-to-end synthetic data pipeline generating **21K+** high-quality training samples; developed an **LLM-as-judge** evaluation system achieving **98–99% agreement** with human annotators across 500+ test cases.
@@ -143,10 +157,18 @@ First engineering role: embedded systems and telemetry for Cerberus and Phoenix,
 |---|---|---|---|
 | MSc, Computer Science and Engineering (AI) | Politecnico di Milano | 09/2023 – 12/2025 | **110/110** |
 | Alta Scuola Politecnica | Politecnico di Milano / Torino | 02/2024 – 07/2025 | Honor program |
-| BSc, Computer Engineering | Politecnico di Torino | 10/2020 – 07/2023 | **110/110 cum laude** |
+| BSc, Computer Engineering | Politecnico di Torino | 09/2020 – 07/2023 | **110/110 cum laude** |
 | Intraprendenti Honor Program | Politecnico di Torino | | Honor program |
 
 ## 📄 Publications & Research Output
+
+<div style="border-left: 4px solid #3b82f6; background: rgba(59,130,246,0.07); padding: 0.75rem 1rem; margin: 0.6rem 0; border-radius: 0 6px 6px 0;">
+<strong>NeurIPS 2026 Main Track</strong>: <em>Surprise, Episodic Context, and Catastrophic Forgetting in LLM Fine-Tuning: An Empirical Study</em> (co-author)
+</div>
+
+<div style="border-left: 4px solid #3b82f6; background: rgba(59,130,246,0.07); padding: 0.75rem 1rem; margin: 0.6rem 0; border-radius: 0 6px 6px 0;">
+<strong>NeurIPS 2026 Main Track</strong>: <em>Do LLMs Bind Episodes? Probing Cross-Episode Parametric Retrieval Through Shared Cues</em> (co-author)
+</div>
 
 <div style="border-left: 4px solid #3b82f6; background: rgba(59,130,246,0.07); padding: 0.75rem 1rem; margin: 0.6rem 0; border-radius: 0 6px 6px 0;">
 <strong>IEEE EMBC 2025</strong>: <em>Trustworthy assessment of 2D model for lung CT scans</em><br>
@@ -167,7 +189,11 @@ DOI: <a href="https://doi.org/10.1016/j.esmorw.2025.100335">10.1016/j.esmorw.202
 </div>
 
 <div style="border-left: 4px solid rgba(128,128,128,0.5); background: rgba(128,128,128,0.05); padding: 0.75rem 1rem; margin: 0.6rem 0; border-radius: 0 6px 6px 0;">
-<strong>Reviewer</strong>: 47th Annual IEEE Engineering in Medicine and Biology Society conference.
+<strong>Under review</strong>: <em>The Reuse-and-Append Memory Principle Enables Learning without Forgetting</em> (first author, Nature Machine Intelligence); <em>Shared by Objective, Lost by Readout: Representation Sharing and Forgetting in a Teacher-Student Continual Learning Model</em> (first author, UniReps Workshop); <em>A Comparative Study of CT-based 2D and 3D ResNet50 for Immunotherapy Efficacy Prediction in NSCLC Patients</em> (co-author, Journal of Imaging Informatics in Medicine).
+</div>
+
+<div style="border-left: 4px solid rgba(128,128,128,0.5); background: rgba(128,128,128,0.05); padding: 0.75rem 1rem; margin: 0.6rem 0; border-radius: 0 6px 6px 0;">
+<strong>Reviewer</strong>: UniReps Workshop @ NeurIPS 2026; 47th Annual IEEE Engineering in Medicine and Biology Society conference.
 </div>
 
 ## 🛠️ Skills
