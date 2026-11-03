@@ -39,7 +39,7 @@ cover:
 .aur-hero-shot{display:block;width:100%;margin:1.8rem auto 0;border-radius:18px;}
 .aur-hero-cap{font-size:.78rem;font-weight:500;color:var(--aur-sub);margin:.7rem 0 0;}
 /* screens gallery */
-.aur-shots{display:grid;grid-template-columns:repeat(4,1fr);gap:.9rem;margin:1.4rem 0 1.8rem;}
+.aur-shots{display:grid;grid-template-columns:repeat(3,1fr);gap:.9rem;margin:1.4rem 0 1.8rem;}
 .aur-shots figure{margin:0;text-align:center;}
 .aur-shots img{width:100%;height:auto;border-radius:18px;border:1px solid var(--aur-line);box-shadow:0 10px 24px rgba(37,45,61,.08);}
 .aur-shots figcaption{font-size:.78rem;font-weight:500;color:var(--aur-sub);margin-top:.5rem;line-height:1.35;}
@@ -99,13 +99,15 @@ The research question behind it: can a general-purpose large language model, wit
 
 ## The experience
 
-Three screens, one gesture. You hold the Aurora sphere and talk; you let go and read back what Aurora heard; you tap *Analyse* and see something to do today and how you are doing. Every tap that was not strictly needed was removed, because the app has to be pleasant to use every single day. These are the screens of the current build.
+One gesture a day. You tap the Aurora sphere and talk; Aurora writes it down, asks a couple of follow-up questions if you want them, and turns the reflection into eight scores with written reasons. Insights show the eight dimensions and the weekly trend, and activities are ranked by the dimensions that need the most care. Every tap that was not strictly needed was removed, because the app has to be pleasant to use every single day. These are screens of the current build, captured on an Android emulator.
 
 <div class="aur-shots">
-<figure><img src="/projects/Aurora/listening.png" alt="Home screen while recording: the sphere swells and glows peach" loading="lazy"><figcaption>Hold the sphere and speak</figcaption></figure>
-<figure><img src="/projects/Aurora/home.png" alt="Home screen with one transcribed reflection and Listen and Analyse actions" loading="lazy"><figcaption>Read it back, then analyse</figcaption></figure>
-<figure><img src="/projects/Aurora/activities.png" alt="Activities screen with two suggestions" loading="lazy"><figcaption>Something for today</figcaption></figure>
-<figure><img src="/projects/Aurora/parameters.png" alt="Parameters screen with the eight well-being scores" loading="lazy"><figcaption>Today's well-being</figcaption></figure>
+<figure><img src="/projects/Aurora/home.png" alt="Home screen: the Aurora sphere rising over soft hills and a Start daily reflection button" loading="lazy"><figcaption>Home: start today's reflection</figcaption></figure>
+<figure><img src="/projects/Aurora/reflect.png" alt="Reflect screen while recording, with the glowing sphere, a live waveform and a timer" loading="lazy"><figcaption>Reflect: speak, with a live waveform</figcaption></figure>
+<figure><img src="/projects/Aurora/guided.png" alt="Guided reflection chat with follow-up questions" loading="lazy"><figcaption>Guided reflection: a few follow-up questions</figcaption></figure>
+<figure><img src="/projects/Aurora/insights.png" alt="Insights screen with a radar of the eight dimensions and a weekly well-being trend" loading="lazy"><figcaption>Insights: eight dimensions and the weekly trend</figcaption></figure>
+<figure><img src="/projects/Aurora/activities.png" alt="Activities screen with suggestions ranked by what needs care" loading="lazy"><figcaption>Activities: suggestions ranked by what needs care</figcaption></figure>
+<figure><img src="/projects/Aurora/settings.png" alt="Profile and connection settings: sample data, your own keys, or your own AWS backend" loading="lazy"><figcaption>Profile: choose where your data goes</figcaption></figure>
 </div>
 
 ### Eight dimensions, one vocabulary
@@ -225,6 +227,8 @@ A few details of the interaction that came out of using it daily:
 ## How it works
 
 Aurora is a thin client in front of a serverless backend. There is no server to maintain: the phone talks to one third-party API for speech-to-text and to AWS for everything else. All prompting lives in a single Python Lambda, so the client never contains model logic and the model can be swapped without shipping a new app build.
+
+This section describes the system as it was built for the study. The 2026 rebuild keeps the same shape but is self-hostable: a small AWS SAM stack (HTTP API with a token authorizer, Bedrock, Transcribe, a private bucket with one-day expiry and no stored content), three connection modes (sample data, your own OpenAI-compatible keys, or your own AWS backend), and secrets kept in the device keystore rather than in the app bundle.
 
 <figure class="aur-fig">
 <svg viewBox="0 0 680 470" role="img" aria-label="Architecture diagram with three zones. On the phone: Recorder, Home screen and the Activities and Parameters screens. Third-party API: OpenAI Whisper receives m4a audio and returns a transcript. AWS serverless: the Home screen invokes the analysis Lambda, which calls a Llama 70B chat model on Bedrock and returns eight scores; an optional S3 upload of audio and transcript and a planned chat Lambda are drawn dashed.">
