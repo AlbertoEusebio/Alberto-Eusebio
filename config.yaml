@@ -40,11 +40,10 @@ params:
     enabled: true
     title: "Alberto Eusebio"
     subtitle: |
-      🏮 Engineering Lead at **[Lanturn](https://lanturn.io)**, turning everyday CAE work into AI agents, evals and training data
-
-      Ex **Salesforce** (enterprise AI agents on Agentforce) · ex **Huawei** Paris Research Center (continual learning and episodic memory in LLMs). Co-author of two **NeurIPS 2026 Main Track** papers on catastrophic forgetting and episodic memory in LLM fine-tuning; earlier work on trustworthy CT-based survival prediction published at **IEEE EMBC 2025** and **ESMO AI 2025**.
-
-      **Polimi** MSc. AI `110/110` &ensp;·&ensp; **Polito** BSc. CS `110L/110` &ensp;·&ensp; Alta Scuola Politecnica &ensp;·&ensp; 2× IHPVA World Champion 🏆
+      <span class="hp-role">Engineering Lead at <a href="https://lanturn.io">Lanturn</a></span>
+      <span class="hp-tag">I turn how expert engineers work into AI agents, evaluations and training data. Before that, continual learning research on LLMs at Huawei Paris and enterprise AI agents at Salesforce.</span>
+      <span class="hp-chips"><span>ex Huawei</span><span>ex Salesforce</span><span>2× NeurIPS 2026 Main Track</span><span>2× IHPVA world champion</span></span>
+      <span class="hp-meta">MSc AI, Politecnico di Milano, 110/110 · BSc, Politecnico di Torino, 110/110 · Alta Scuola Politecnica</span>
     buttons:
       - name: Profile
         url: /profile/
